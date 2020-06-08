@@ -1,0 +1,67 @@
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  margin-top: 15px;
+ }
+
+
+.attribution a {
+  color: white;
+ }
+
+body {
+  padding: 50px 75px 0px;
+  background-image: url(../images/bg-desktop.png);
+  background-color: hsl(257, 40%, 49%);
+  position: relative;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+}
+
+html {
+  margin: 0;
+}
+
+h1 {
+  width: 75%;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  margin-top: 150px;
+  color: white;
+  line-height: 1.5;
+}
+
+.illustration-mockups {
+  width: 97%;
+  position: relative;
+  top: 75px;
+}
+
+.icons {
+   margin-top: 175px;
+   color: #FFFAFA;
+   margin-left: 25px;
+ }
+
+.fb {
+  margin-left: 400px;
+}
+
+
+.logo {
+  position: relative;
+  width: 30%;
+}
+
+h5 {
+  color: #fff;
+  margin: 25px 0;
+  font-size: 1.1rem;
+}
+
+.btn {
+  border-radius: 25px;
+  padding: 10px 60px;
+  box-shadow: 0 0 15px 15px hsl(257, 40%, 49%);
+  color: hsl(257, 40%, 49%);
+}
